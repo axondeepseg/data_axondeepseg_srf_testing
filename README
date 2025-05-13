@@ -1,0 +1,13 @@
+# data_axondeepseg_srf_testing
+
+- Testing set for the following AxonDeepSeg model
+
+  - https://github.com/axondeepseg/model_seg_unmyelinated_tem/releases/tag/r20240708-stanford
+
+  - Full dataset: https://dandiarchive.org/dandiset/001350/0.250511.1527
+
+- At least 2 images per subject for the 10 mice of the original dataset
+
+- Each testing image has a size of 500x500
+
+- Annotations include myelin and both myelinated and unmyelinated axons
